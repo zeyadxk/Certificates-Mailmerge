@@ -23,7 +23,7 @@ Spreadsheet:
 
 3-Save the file. You can use any name, but if you change the name to anything other than template.xlsx, you will need to change that in the main.py file.
 
---------if you don't want to use the mailmerge feature and only the python script, you don't have to fill column B. However the name has to be in column A and the serial number in column C--------
+-------if you don't want to use the mailmerge feature and only the python script, you don't have to fill column B. However the name has to be in column A and the serial number in column C-------
 
 
 
@@ -67,4 +67,12 @@ The mailmerge applescript:
 
 10-Run the applescript in Script Editor.app
 
---------Please use a test csv file with a small number of entries and your email address to test the script first--------
+-------Please use a test csv file with a small number of entries and your email address to test the script first-------
+
+# How to contribute
+
+1-Raise an issue explaining what changes you intend to make and I will contact you there
+
+2-If the changes are approved, fork the repository and make your changes.
+
+3-Created a pull request
