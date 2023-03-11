@@ -25,7 +25,7 @@ Spreadsheet:
 
 -------if you don't want to use the mailmerge feature and only the python script, you don't have to fill column B. However the name has to be in column A and the serial number in column C-------
 
-
+--------------------------------------------------------------------------------------------------------
 
 Certificate:
 
@@ -33,17 +33,19 @@ Certificate:
 
 2-Find out the position you'd like the text to be in and edit the value in main.py
 
-
+--------------------------------------------------------------------------------------------------------
 
 The main.py script:
 
-1-Put the script, the jpeg file, the xlsx file, and the Result folder into one folder
+1-Create an new folder named "Result" (make sure it's the same exactly)
 
-2-Using terminal go to the same directory and run the command [python3 main.py]
+2-Put the script, the jpeg file, the xlsx file, and the Result folder into one folder
 
-3-The command will output the PDF files in the Result folder
+3-Using terminal go to the same directory and run the command [python3 main.py]
 
+4-The command will output the PDF files in the Result folder
 
+--------------------------------------------------------------------------------------------------------
 
 The mailmerge applescript:
 
